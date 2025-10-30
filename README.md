@@ -1,3 +1,4 @@
+![mat100](https://github.com/user-attachments/assets/9b01c3ad-feae-43f4-85dc-568d24b8d08e)
 # Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
@@ -21,15 +22,15 @@ To write a python program to implement multivariate linear regression and predic
 <br>
 
 ## Program:
-```
 
 
 
+![mat100](https://github.com/user-attachments/assets/9b01c3ad-feae-43f4-85dc-568d24b8d08e)
 
 
-
-```
 ## Output:
+
+![mat101](https://github.com/user-attachments/assets/84b9a4ab-4379-4a43-9345-efc1cf9e19d6)
 
 ### Insert your output
 
